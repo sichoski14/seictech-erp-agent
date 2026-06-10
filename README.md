@@ -324,15 +324,8 @@ Email	sichoski.analista@gmail.com
 🏆 Créditos
 Desenvolvido por SEICTECH | Versão 3.0 | Atualizado em Junho/2026
 
+commit
 
 
-text
-
----
 
 
-# Commit
-git commit -m "docs: Add technical README with architecture, setup, and API documentation"
-
-# Enviar para o GitHub
-git push origin master
