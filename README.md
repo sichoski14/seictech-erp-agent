@@ -320,21 +320,16 @@ in the Software without restriction...
 Canal	Contato
 Issues	GitHub Issues do projeto
 Documentação	Wiki do Projeto
-Email	suporte@seictech.com.br
+Email	sichoski.analista@gmail.com
 🏆 Créditos
 Desenvolvido por SEICTECH | Versão 3.0 | Atualizado em Junho/2026
 
-⭐ Marque com estrela este repositório se foi útil!
+
 
 text
 
 ---
 
-## 📤 Enviar README para o GitHub
-
-```powershell
-# Adicionar o README
-git add README.md
 
 # Commit
 git commit -m "docs: Add technical README with architecture, setup, and API documentation"
